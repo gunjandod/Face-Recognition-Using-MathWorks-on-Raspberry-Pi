@@ -1,6 +1,7 @@
 # Face-Recognition-Using-MathWorks-on-Raspberry-Pi
 https://www.canva.com/design/DAFh8GJ2U1A/uwZFmjENqoBzeoDgeNjr6g/edit?utm_content=DAFh8GJ2U1A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 https://www.canva.com/design/DAFh8GJ2U1A/uwZFmjENqoBzeoDgeNjr6g/edit?utm_content=DAFh8GJ2U1A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 Description -
 •	Face recognition using MathWorks on Raspberry Pi is a process of identifying and verifying individuals based on their facial features using the MathWorks software platform and implementing it on a Raspberry Pi device. The Raspberry Pi is a small, low-cost, single-board computer that is widely used for various applications.
 •	Implementing face recognition on a Raspberry Pi using MathWorks involves leveraging the computational capabilities of the Raspberry Pi and the comprehensive toolset provided by MathWorks, such as MATLAB and Simulink. 
